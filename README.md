@@ -7,7 +7,7 @@ It is designed to be backwards compatible with Lua 5.1, as well as incorporating
 
 Luau is used by Roblox game developers to write game code, as well as by Roblox engineers to implement large parts of the user-facing application code as well as portions of the editor (Roblox Studio) as plugins. Roblox chose to open-source Luau to foster collaboration within the Roblox community as well as to allow other companies and communities to benefit from the ongoing language and runtime innovation.
 
-This repository hosts source code for the language implementation and associated tooling, documentation for the language as well as RFCs and other materials. The documentation portion of this repository can be viewed at https://luau-lang.org/
+This repository hosts source code for the language implementation and associated tooling, documentation for the language as well as RFCs and other materials. The documentation portion of this repository can be viewed at https://luau-lang.org/ you can also join our offical Discord server at discord.gg/luau or by clicking [here](https://discord.gg/luau)
 
 # Usage
 
